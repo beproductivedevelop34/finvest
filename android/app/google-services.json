@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "45199130539",
+    "firebase_url": "https://flutter-finvest-default-rtdb.firebaseio.com",
+    "project_id": "flutter-finvest",
+    "storage_bucket": "flutter-finvest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45199130539:android:fbb2e31ec66c62dafbdcee",
+        "android_client_info": {
+          "package_name": "com.example.finvest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45199130539-8k5cqng9ph4ntrbmcpvl8un920ilu7uo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW4F8ulwNQBqsDWczbqSx-iHyD_z_8sFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45199130539-8k5cqng9ph4ntrbmcpvl8un920ilu7uo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "45199130539-0ns480kto48rtrhftd6gr5pobmcan1th.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.finvest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
